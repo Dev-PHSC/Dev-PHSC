@@ -32,8 +32,8 @@
 https://github.com/SEUUSERNAME?tab=repositories
 
 ---
-
 ### 📫 Contato
 
 - Email: **paulo.s.castro@ufv.br**
+
 <a href="https://www.linkedin.com/in/paulo-henrique-de-souza-castro-30a85b28a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo henrique de souza castro" height="30" width="40" /></a>
