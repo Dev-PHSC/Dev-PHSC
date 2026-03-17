@@ -22,7 +22,7 @@
 - C++
 - Python
 - Git / GitHub
-- Programação Competitiva (CSES, Beecrowd, etc.)
+- Programação Competitiva
 
 ---
 
